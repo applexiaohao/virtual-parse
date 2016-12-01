@@ -1,0 +1,27 @@
+
+{
+  "name": "virtual-parse",
+  "version": "0.1.0",
+  "description": "virtual-parse",
+  "main": "vtask.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JeremyWei/easy_mongo.git"
+  },
+  "keywords": [
+    "virtual-parse",
+    "node",
+    "easy"
+  ],
+  "author": "lewis.xiaoa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JeremyWei/easy_mongo/issues"
+  }
+}
